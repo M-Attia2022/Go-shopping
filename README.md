@@ -46,9 +46,9 @@ E-Commerc app
 
 ## chekout
 <p align ="center">
- <img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١١٥١٩" src="https://github.com/user-attachments/assets/8a9a378d-ffd3-4a7b-b1ed-1282fc6468f5" />
+ <img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١١٥١٩" src="https://github.com/user-attachments/assets/8a9a378d-ffd3-4a7b-b1ed-1282fc6468f5" />
 <img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١١٥٢٦" src="https://github.com/user-attachments/assets/fdc0638a-fe19-4f6a-83ef-9c3c9e5d47d3" />
-<img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١١٥٠٥" src="https://github.com/user-attachments/assets/aa2d264b-e7c3-4bc7-9ac4-925737292e9c" />
+<img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١١٥٠٥" src="https://github.com/user-attachments/assets/aa2d264b-e7c3-4bc7-9ac4-925737292e9c" />
 </p>
 
 
