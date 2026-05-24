@@ -18,8 +18,8 @@ E-Commerc app
 
 ## dleve
 <p align ="center">
-<img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١٠٨٢٢" src="https://github.com/user-attachments/assets/b2fa2007-c2c7-4f18-b1b2-fa0ae46324fc" />]
-<img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١٠٩٥٨" src="https://github.com/user-attachments/assets/393df95b-40a7-49b0-a7f2-9817fb763d91" />
+<img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١٠٨٢٢" src="https://github.com/user-attachments/assets/b2fa2007-c2c7-4f18-b1b2-fa0ae46324fc" />]
+<img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١٠٩٥٨" src="https://github.com/user-attachments/assets/393df95b-40a7-49b0-a7f2-9817fb763d91" />
 </p>
 
 
