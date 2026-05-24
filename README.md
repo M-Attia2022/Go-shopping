@@ -10,6 +10,13 @@ E-Commerc app
 ## splash screen 
 <img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢١٢٦٤٠" src="https://github.com/user-attachments/assets/ce0d3f3d-a4e6-4aca-ad0a-516249a0376d" />
 
+## sign in
+<img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢٠٣٨٣١" src="https://github.com/user-attachments/assets/d422d43b-09e1-4b04-a596-285daeab43fe" />
+
+## sign up
+<img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢٢٣٨٤٨" src="https://github.com/user-attachments/assets/47ddeb23-2cd3-4427-a282-6ce3d8d424a6" />
+
+
 ## merchant
 <img width="45%" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٤-٢٠٣٩٣٢" src="https://github.com/user-attachments/assets/a3db291c-43a4-434b-bf23-8fe9df8cfb03" />
 
